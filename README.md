@@ -129,9 +129,47 @@ const dev = {
 
 <div align="center">
 
-<sub>Mis proyectos destacados están fijados justo debajo de este README.</sub>
+<!-- Para quitar una tarjeta, borra su bloque <td>...</td>. Para agregar otra, copia uno y cambia repo=NOMBRE -->
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/JoseEmiliano12/ProyectoU2-AW">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseEmiliano12&repo=ProyectoU2-AW&theme=dark&bg_color=0D1117&border_color=1F2937&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="ProyectoU2-AW" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/JoseEmiliano12/DETECTOR_DE_SENALES_DE_AUDIO">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseEmiliano12&repo=DETECTOR_DE_SENALES_DE_AUDIO&theme=dark&bg_color=0D1117&border_color=1F2937&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="DETECTOR_DE_SENALES_DE_AUDIO" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/JoseEmiliano12/Torres-de-Hanoi">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseEmiliano12&repo=Torres-de-Hanoi&theme=dark&bg_color=0D1117&border_color=1F2937&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="Torres-de-Hanoi" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/JoseEmiliano12/Proyecto-ESTRUCTURA-DE-DATOS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseEmiliano12&repo=Proyecto-ESTRUCTURA-DE-DATOS&theme=dark&bg_color=0D1117&border_color=1F2937&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="Proyecto-ESTRUCTURA-DE-DATOS" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/JoseEmiliano12/ESTRUCTURA-DE-DATOS-Proyecto">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseEmiliano12&repo=ESTRUCTURA-DE-DATOS-Proyecto&theme=dark&bg_color=0D1117&border_color=1F2937&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="ESTRUCTURA-DE-DATOS-Proyecto" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/JoseEmiliano12/ds-actividad-3b-matricesygenericos-JoseEmiliano12">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseEmiliano12&repo=ds-actividad-3b-matricesygenericos-JoseEmiliano12&theme=dark&bg_color=0D1117&border_color=1F2937&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9" alt="ds-actividad-3b-matricesygenericos" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/JoseEmiliano12?tab=repositories">
   <img src="https://img.shields.io/badge/📂_Ver_todos_mis_repositorios-0D1117?style=for-the-badge&labelColor=0D1117&color=FF2E97" alt="Repositorios" />
